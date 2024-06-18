@@ -17,6 +17,7 @@
   }
 
 ### Fetch User
+- Method: `GET`
 - URL: `/api/user/fetch?username=user1`
 
   
