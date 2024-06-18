@@ -1,6 +1,9 @@
 # MakersharksAssessment
 # User API
-
+application.properties
+Update application.properties file if you want to change server port configuration:(currently running on 8080)
+# application.properties
+server.port=8080
 
 ## Endpoints
 
